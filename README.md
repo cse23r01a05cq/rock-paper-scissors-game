@@ -16,10 +16,6 @@ A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 * CSS
 * JavaScript
 
-## Screenshot
-
-![Project Screenshot](screenshot.png)
-
 ## Live Demo
 
 https://cse23r01a05cq.github.io/rock-paper-scissors-game/
